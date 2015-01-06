@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ubs.opsit.interviews.wordfrequency.WordFrequencyTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2015-01-06T01:31:53" hostname="shaquilles-MacBook-Pro.local" time="0.034">
+  <properties/>
+  <testcase name="testOneSentenceInput" classname="com.ubs.opsit.interviews.wordfrequency.WordFrequencyTest" time="0.002"/>
+  <testcase name="RandomParagraph1" classname="com.ubs.opsit.interviews.wordfrequency.WordFrequencyTest" time="0.002"/>
+  <testcase name="RandomParagraph2" classname="com.ubs.opsit.interviews.wordfrequency.WordFrequencyTest" time="0.02"/>
+  <testcase name="leadingSpaces" classname="com.ubs.opsit.interviews.wordfrequency.WordFrequencyTest" time="0.001"/>
+  <testcase name="trailingPeriod" classname="com.ubs.opsit.interviews.wordfrequency.WordFrequencyTest" time="0.001"/>
+  <testcase name="trailingSpaces" classname="com.ubs.opsit.interviews.wordfrequency.WordFrequencyTest" time="0.0"/>
+  <testcase name="Puncuation" classname="com.ubs.opsit.interviews.wordfrequency.WordFrequencyTest" time="0.0"/>
+  <testcase name="Tab" classname="com.ubs.opsit.interviews.wordfrequency.WordFrequencyTest" time="0.0"/>
+  <testcase name="testCountOccurrencesOfWordsWithin" classname="com.ubs.opsit.interviews.wordfrequency.WordFrequencyTest" time="0.0"/>
+  <testcase name="TwoPlusSpaces" classname="com.ubs.opsit.interviews.wordfrequency.WordFrequencyTest" time="0.0"/>
+  <testcase name="nullInput" classname="com.ubs.opsit.interviews.wordfrequency.WordFrequencyTest" time="0.0"/>
+  <testcase name="CapitalSeparation" classname="com.ubs.opsit.interviews.wordfrequency.WordFrequencyTest" time="0.0"/>
+  <system-out><![CDATA[{need=1, using=3, handle=1, scrum=2, etc=1, received=1, chance=1, feedback=1, free=1, forward=1, nashville=1, going=1, reviewing=1, ubs=1, how=1, discussing=1, teams=1, project=2, 1=2, floor=1, 5=1, roles=1, lot=1, recommendations=1, big=2, guarded=1, review=1, we=3, consisting=1, choice=1, 17=1, handling=1, programming=1, side=1, times=1, do=3, look=2, classes=1, a=15, back=1, us=1, ones=1, up=1, i=1, sit=1, days=1, background=1, down=1, part=1, quickly=1, keep=1, coding=1, week=1, to=14, responds=1, progress=1, transactions=1, both=1, instructions=1, good=2, by=1, completion=1, would=3, any=2, be=6, think=1, get=1, so=2, code=2, and=11, that=4, desirable=1, several=1, day=1, make=1, existing=1, exercise=4, response=1, complete=1, all=2, feel=1, ba=1, as=4, you=6, qa=1, hello=1, resume=1, ide=1, take=1, an=2, there=1, approach=2, provided=2, java=2, github=1, very=1, they=5, automated=1, manager=1, test=1, for=4, 6th=1, of=11, are=6, administer=1, deliver=1, initial=1, file=2, on=3, focus=1, import=1, agile=1, plus=1, million=1, or=2, career=1, questions=1, not=1, thinking=1, will=2, pm=1, some=1, upon=1, might=1, development=2, pair=1, build=2, clean=1, tests=3, me=1, mind=1, trading=2, let=1, already=1, developers=2, should=2, tdd=1, process=1, really=1, interview=2, successfully=1, attached=1, within=2, based=1, but=1, overcome=1, show=1, him=1, chat=1, intellij=1, love=1, more=1, shaquille=1, january=1, 5th=2, developing=1, applications=1, work=4, here=1, team=1, follow-up=1, gradle=3, town=1, this=1, have=4, one=1, issue=1, currently=1, add=1, requirements=1, push=1, fit=1, driven=1, if=3, able=2, couple=2, develop=1, zip=2, is=6, with=1, it=1, sharp=1, your=8, resource=1, into=1, modify=1, the=20, addition=1, know=1, in=9, around=1, pass=1, bitbucket=1, things=1, hint:=1, step=1}
+Null Input Entered 
+java.lang.NullPointerException
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
